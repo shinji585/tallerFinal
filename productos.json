@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop",
+    "precio": 1200.5,
+    "categoria": "Electronica"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse",
+    "precio": 25.99,
+    "categoria": "Electronica"
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado",
+    "precio": 45.75,
+    "categoria": "Electronica"
+  },
+  {
+    "id": 4,
+    "nombre": "Silla Gamer",
+    "precio": 350.0,
+    "categoria": "Muebles"
+  },
+  {
+    "id": 5,
+    "nombre": "Escritorio",
+    "precio": 299.99,
+    "categoria": "Muebles"
+  }
+]
